@@ -1,8 +1,8 @@
 /**
  *
  *
-   Willie Nelson Base Fan Club
-   $WILLIE on Base
+   Willie Nelson Polygon Fan Club
+   $WILLIE on Polygon
    https://willie.club
    https://x.com/WillieClub
    https://t.me/
@@ -10,8 +10,8 @@
 
    Contract features:
    100,000,000 tokens
-   3% buy tax in ETH sent to community, marketing & developer
-   16% launch sell tax in ETH sent to community, marketing, & developer
+   3% buy tax in MATIC sent to community, marketing & developer
+   16% launch sell tax in MATIC sent to community, marketing, & developer
    Function to reduce taxes to 3/3
    Function to remove taxes
    Removable anti-whale restrictions of max transaction & max wallet
@@ -1206,7 +1206,7 @@ contract Willie is ERC20, Ownable {
         address indexed oldWallet
     );
 
-    constructor() ERC20("Willie Nelson Base Fan Club", "WILLIE") {
+    constructor() ERC20("Willie Nelson Polygon Fan Club", "WILLIE") {
         uniswapV2Router = IUniswapV2Router02(
             0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24
         );
