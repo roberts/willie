@@ -3,7 +3,7 @@
  *
    Willie Nelson Ethereum Fan Club
    $WILLIE on Ethereum
-   https://willie.club
+   https://WillieClub.org
    https://x.com/WillieClub
    https://t.me/WillieClub
 
