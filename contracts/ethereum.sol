@@ -5,7 +5,7 @@
    $WILLIE on Ethereum
    https://willie.club
    https://x.com/WillieClub
-   https://t.me/
+   https://t.me/WillieClub
 
 
    Contract features:
