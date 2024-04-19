@@ -3,7 +3,7 @@
  *
    Willie Nelson Polygon Fan Club
    $WILLIE on Polygon
-   https://willie.club
+   https://WillieClub.org
    https://x.com/WillieClub
    https://t.me/WillieClub
 
