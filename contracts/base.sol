@@ -1,6 +1,13 @@
 /**
  *
  *
+   Willie Nelson Base Fan Club
+   $WILLIE on Base
+   https://willie.club
+   https://x.com/WillieClub
+   https://t.me/
+
+
    Contract features:
    100,000,000 tokens
    3% buy tax in ETH sent to community, marketing & developer
@@ -1136,7 +1143,7 @@ interface IUniswapV2Router02 is IUniswapV2Router01 {
     ) external;
 }
 
-contract Tuesday is ERC20, Ownable {
+contract Willie is ERC20, Ownable {
     using SafeMath for uint256;
 
     IUniswapV2Router02 public immutable uniswapV2Router;
@@ -1145,7 +1152,7 @@ contract Tuesday is ERC20, Ownable {
         address(0x000000000000000000000000000000000000dEaD);
 
     string public exchangeLink = "https://app.uniswap.or/swap";
-    string public websiteLink = "https://DrewRoberts.com";
+    string public websiteLink = "https://willie.club";
 
     address public communityWallet;
     address public marketingWallet;
@@ -1199,7 +1206,7 @@ contract Tuesday is ERC20, Ownable {
         address indexed oldWallet
     );
 
-    constructor() ERC20("Tuesday", "TUES") {
+    constructor() ERC20("Willie Nelson Base Fan Club", "WILLIE") {
         uniswapV2Router = IUniswapV2Router02(
             0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24
         );
