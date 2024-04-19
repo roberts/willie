@@ -1,8 +1,8 @@
 /**
  *
  *
-   Willie Nelson Base Fan Club
-   $WILLIE on Base
+   Willie Nelson Ethereum Fan Club
+   $WILLIE on Ethereum
    https://willie.club
    https://x.com/WillieClub
    https://t.me/
@@ -1206,7 +1206,7 @@ contract Willie is ERC20, Ownable {
         address indexed oldWallet
     );
 
-    constructor() ERC20("Willie Nelson Base Fan Club", "WILLIE") {
+    constructor() ERC20("Willie Nelson Ethereum Fan Club", "WILLIE") {
         uniswapV2Router = IUniswapV2Router02(
             0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24
         );
