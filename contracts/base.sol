@@ -3,7 +3,7 @@
  *
    Willie Nelson Base Fan Club
    $WILLIE on Base
-   https://willie.club
+   https://WillieClub.org
    https://x.com/WillieClub
    https://t.me/WillieClub
 
