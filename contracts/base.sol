@@ -1234,8 +1234,8 @@ contract Willie is ERC20, Ownable {
             developerLopsidedSellTax;
 
         communityWallet = address(0x151F3c23EEd362EA4dA05A2522f65174C3A9F140); // Community Funds
-        marketingWallet = address(0xd83a15af9dedf92b46be72b9df7dacc2b2b880ba); // Marketing Funds
-        developerWallet = address(0xa6d26e99660de4974b8994ecf75dcd4cf34951b6); // Developer Funds
+        marketingWallet = address(0xd83a15Af9DEdf92B46BE72B9dF7DAcc2B2B880Ba); // Marketing Funds
+        developerWallet = address(0xA6d26E99660de4974B8994eCF75dcD4Cf34951B6); // Developer Funds
 
         _mint(address(this), totalSupply);
     }
