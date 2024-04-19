@@ -1208,7 +1208,7 @@ contract Willie is ERC20, Ownable {
 
     constructor() ERC20("Willie Nelson Polygon Fan Club", "WILLIE") {
         uniswapV2Router = IUniswapV2Router02(
-            0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24
+            0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff
         );
         _approve(address(this), address(uniswapV2Router), type(uint256).max);
 
