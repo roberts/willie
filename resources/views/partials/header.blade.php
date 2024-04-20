@@ -8,11 +8,11 @@
                             <div class="flex flex-1">
                                 <div class="h-10 w-10 rounded-full">
                                     <a aria-label="Home" class="pointer-events-auto" href="{{ route('home') }}">
-                                        <img alt="" fetchpriority="high" width="512" height="512" decoding="async" class="rounded-full bg-zinc-100 object-cover dark:bg-zinc-800 h-10 w-10" style="color:transparent" sizes="2.25rem" src="/img/bob.jpeg">
+                                        <img alt="" fetchpriority="high" width="512" height="512" decoding="async" class="rounded-full bg-zinc-100 object-cover dark:bg-zinc-800 h-10 w-10" style="color:transparent" sizes="2.25rem" src="/img/willie.jpeg">
                                     </a>
                                 </div>
                             </div>
-                            <div class="flex flex-1 justify-end md:justify-center">
+                            <!-- <div class="flex flex-1 justify-end md:justify-center">
                                 <div class="pointer-events-auto md:hidden" x-data="{ open: false }">
                                     <button @click="showModal = true" class="group flex items-center rounded-full bg-white/90 px-4 py-2 text-sm font-medium text-zinc-800 shadow-lg shadow-zinc-800/5 ring-1 ring-zinc-900/5 backdrop-blur dark:bg-zinc-800/90 dark:text-zinc-200 dark:ring-white/10 dark:hover:ring-white/20" type="button" aria-expanded="false">
                                         Menu
@@ -20,7 +20,6 @@
                                             <path d="M1.75 1.75 4 4.25l2.25-2.5" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
                                         </svg>
                                     </button>
-                                    <!--Dialog for mobile nav-->
                                     <div x-show="showModal" :class="{ showModal }" class="fixed w-full h-full top-0 left-0 flex z-50 bg-zinc-800/40 backdrop-blur-sm dark:bg-black/80" x-show="showModal" @click.away="showModal = false" x-transition:enter="ease-out duration-150" x-transition:enter-start="opacity-0 scale-90" x-transition:enter-end="opacity-100 scale-100" x-transition:leave="ease-in duration-150" x-transition:leave-start="opacity-100 scale-100" x-transition:leave-end="opacity-0 scale-90">
                                         <div class="fixed inset-x-4 top-8 z-60 origin-top rounded-3xl bg-white p-8 ring-1 ring-zinc-900/5 dark:bg-zinc-900 dark:ring-zinc-800">
                                             <div class="flex flex-row-reverse items-center justify-between">
@@ -54,7 +53,7 @@
                                         <li><a class="relative block px-3 py-2 transition hover:text-teal-500 dark:hover:text-teal-400" href="{{ route('chart') }}">Chart</a></li>
                                     </ul>
                                 </nav>
-                            </div>
+                            </div> -->
                             <div class="flex justify-end md:flex-1">
                                 <div class="pointer-events-auto">
                                     <button @click="darkMode = !darkMode" type="button" aria-label="Switch to light theme" class="group rounded-full bg-white/90 px-3 py-2 shadow-lg shadow-zinc-800/5 ring-1 ring-zinc-900/5 backdrop-blur transition dark:bg-zinc-800/90 dark:ring-white/10 dark:hover:ring-white/20">

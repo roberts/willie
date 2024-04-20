@@ -6,13 +6,10 @@
                     <div class="mx-auto max-w-2xl lg:max-w-5xl">
                         <div class="flex flex-col items-center justify-between gap-6 sm:flex-row">
                             <div class="flex flex-wrap justify-center gap-x-6 gap-y-1 text-sm font-medium text-zinc-800 dark:text-zinc-200">
-                            <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="{{ route('home') }}">Home</a>
-                                <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="{{ route('about') }}">About</a>
-                                <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="/whitepaper.pdf">Whitepaper</a>
-                                <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="{{ route('memes') }}">Memes</a>
-                                <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="{{ route('chart') }}">Chart</a>
+                            <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="https://t.me/WillieClub">Telegram</a>
+                                <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="https://x.com/WillieClub">Twitter</a>
                             </div>
-                            <p class="text-sm text-zinc-400 dark:text-zinc-500">© <!-- -->2024<!-- --> TickerIsBob.com. No rights reserved.</p>
+                            <p class="text-sm text-zinc-400 dark:text-zinc-500">© <!-- -->2024<!-- --> WillieClub.org. No rights reserved.</p>
                         </div>
                     </div>
                 </div>
