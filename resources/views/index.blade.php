@@ -13,7 +13,7 @@
                             <div class="lg:order-first lg:row-span-2">
                                 <h1 class="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">Blockchain $WILLIE</h1>
                                 <div class="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
-                                    <p>Willie Nelson Blockchain Fan Club is a 4/20 memecoin competition between multiple blockchain communities. First launched on Solana then on Base.</p>
+                                    <p>Willie Nelson Blockchain Fan Club began as a 4/20 memecoin competition between multiple blockchain communities. First launched on Solana then on Base, the Solana token won the competition & transitioned a growing community of over 400 holders into a long-term project for the culture. Join the $WILLIE movement:</p>
                                     <p>Willie Nelson Solana Fan Club</p>
                                     <p>J648jeU46sUp9ipbTpqsCmPZta5GtpfaXsdUDP8M3XNC</p>
                                     <div class="mt-6 flex gap-6">
